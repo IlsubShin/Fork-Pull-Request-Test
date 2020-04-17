@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello Waldo!" << endl;	//고의로 틀림
+	cout << "Hello Hi" << endl;	//고의로 틀림
 
 	return 0;
 }
